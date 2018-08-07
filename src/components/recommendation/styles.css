@@ -1,0 +1,51 @@
+.header, div {
+    text-align: center;
+}
+.recommendation-container {
+    padding-top: 30px;
+    background: #f9f9f9;
+    min-height: 100vh;
+}
+
+body {
+    background: #494949;
+}
+.color-boxes {
+    height: 100px;
+    width: 100px;
+    border: 1px dashed #e5e5e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.color-boxes h2 {
+    /* color: #fff; */
+}
+.color-1,
+.color-5 {
+    margin: auto;
+}
+.middle-box-cont {
+    display: flex;
+    justify-content: center;
+}
+
+.star-rating i {
+    font-size: 30px;
+    color : #9b9b9b;
+    cursor: pointer; 
+}
+section {
+    margin-top: 50px;
+}
+
+.star-rating-cont hr {
+    border-style: dotted;
+    border-color: #494949; 
+}
+.star-rating .star-highlight {
+    color : rgb(255,215,0);
+}
+.color-3 {
+    
+}
